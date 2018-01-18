@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="2c851a3f39bac7f2"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="pedranojt"
+		host="KDDPPC246"
+		rxversion="7.0.1.0"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1920x1080"
+		timestamp="1/18/2018 1:07:57 PM"
+		timestampiso="2018-01-18T05:07:57"
+		timeoutfactor="1"
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.462"
+			timeRelativeToTestModuleStartTime="00:00.462"
+			timeWallClock="13:07:58"
+			time="00:00.462"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Calculator.Num8Button' at 43;30.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/winapp[@packagename='Microsoft.WindowsCalculator']/?/?/button[@automationid='num8Button']"
+				fullname="SimpleCalculatorRepository.Calculator.Num8Button"
+				id="e5d99daf18044feeb73cd0c290b1bef6"
+				timeout="60000"
+				codefile="c:\Users\pedranojt\Documents\Ranorex\RanorexStudio Projects\SimpleCalculator\SimpleCalculator\Recording1.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:03.202"
+			timeRelativeToTestModuleStartTime="00:03.202"
+			timeWallClock="13:08:00"
+			time="00:03.202"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Calculator.PlusButton' at 44;24.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/winapp[@packagename='Microsoft.WindowsCalculator']/?/?/button[@automationid='plusButton']"
+				fullname="SimpleCalculatorRepository.Calculator.PlusButton"
+				id="41d5265b29ae49cb8a734b5130ed605a"
+				timeout="60000"
+				codefile="c:\Users\pedranojt\Documents\Ranorex\RanorexStudio Projects\SimpleCalculator\SimpleCalculator\Recording1.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.133"
+			timeRelativeToTestModuleStartTime="00:04.133"
+			timeWallClock="13:08:01"
+			time="00:04.133"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Calculator.Text8' at 2;4.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/winapp[@packagename='Microsoft.WindowsCalculator']/?/?/button[@automationid='num8Button']/text[@name='8']"
+				fullname="SimpleCalculatorRepository.Calculator.Text8"
+				id="210059f55e3f4458b4670d30c81d07a7"
+				timeout="60000"
+				codefile="c:\Users\pedranojt\Documents\Ranorex\RanorexStudio Projects\SimpleCalculator\SimpleCalculator\Recording1.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.718"
+			timeRelativeToTestModuleStartTime="00:05.718"
+			timeWallClock="13:08:03"
+			time="00:05.718"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Calculator.SomeText' at 11;11.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/winapp[@packagename='Microsoft.WindowsCalculator']/?/?/button[@automationid='equalButton']/text[@name='']"
+				fullname="SimpleCalculatorRepository.Calculator.SomeText"
+				id="cdf44f86bdaa4895aa4bb20f79ed6f8f"
+				timeout="60000"
+				codefile="c:\Users\pedranojt\Documents\Ranorex\RanorexStudio Projects\SimpleCalculator\SimpleCalculator\Recording1.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="7.0">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="SimpleCalculator"
+      id="03f4d3bf-1854-4b50-a159-29bbc6fc2c1a"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="SimpleCalculator"
+      id="03f4d3bf-1854-4b50-a159-29bbc6fc2c1a"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

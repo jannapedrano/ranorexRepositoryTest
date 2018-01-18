@@ -1,0 +1,8 @@
+C:\Users\pedranojt\Documents\Ranorex\RanorexStudio Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.rxtmg
+C:\Users\pedranojt\Documents\Ranorex\RanorexStudio Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.rxtst
+C:\Users\pedranojt\Documents\Ranorex\RanorexStudio Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\pedranojt\Documents\Ranorex\RanorexStudio Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\pedranojt\Documents\Ranorex\RanorexStudio Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\pedranojt\Documents\Ranorex\RanorexStudio Projects\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\pedranojt\Documents\Ranorex\RanorexStudio Projects\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.exe
+C:\Users\pedranojt\Documents\Ranorex\RanorexStudio Projects\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.pdb
